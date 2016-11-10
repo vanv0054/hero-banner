@@ -27,5 +27,14 @@ body {
 }
 
 .banner-content {
-  
+  position: absolute;
+}
+
+p {
+  font-style: italic;
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 4rem;
 }
